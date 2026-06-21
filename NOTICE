@@ -1,0 +1,10 @@
+Anima ADDifT Trainer
+Copyright (c) 2026 Anima ADDifT Trainer contributors
+
+Original code and project-specific additions are released under the MIT
+License in LICENSE.
+
+This repository also contains code derived from kohya-ss/sd-scripts and
+gazingstars123/Anima-Standalone-Trainer. Those portions remain subject to the
+Apache License 2.0 and their existing copyright notices. See
+LICENSE-APACHE-2.0.md.
